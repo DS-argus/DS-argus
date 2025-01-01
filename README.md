@@ -1,5 +1,5 @@
 ### 👋 About Me
-- 🎓 I pursued graduate studies with a focus on **Causal Inference**, exploring its applications in _data science_ and _decision-making_.
+- 🎓 I pursued graduate studies in Causal Inference, focusing on its applications in AI, data science, and decision-making.
   - My expertise includes **causal effect identification and estimation** as well as **(Deep) Reinforcement Learning**.
 - 🌱 I’m currently learning **Rust**, **Docker**, and **Backend Development**.
 - 💼 Previously, I managed derivative-based funds in the asset management industry.
