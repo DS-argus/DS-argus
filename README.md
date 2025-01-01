@@ -74,8 +74,8 @@
 ### 📊 Statistics
 <div align="left">
 
-<img src="https://github-readme-stats-wheat-six-51.vercel.app/api?username=DS-argus&theme=nord&show_icons=true&hide_rank=false" alt="GitHub Stats" height="200px">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdals0653" alt="Solved.ac 프로필" height="200px">
+<img src="https://github-readme-stats-wheat-six-51.vercel.app/api?username=DS-argus&theme=nord&show_icons=true&hide_rank=false" alt="GitHub Stats" height="170px">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdals0653" alt="Solved.ac 프로필" height="170px">
 <!-- <img src="https://github-readme-stats-wheat-six-51.vercel.app/api/top-langs/?username=DS-argus&layout=compact&theme=nord" alt="Top Langs" height="200px"> -->
 
 </div>
