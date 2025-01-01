@@ -9,15 +9,9 @@
 
 ### 📫 Contact
 <div align="left">
-  <a href="mailto:tjdals4047@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  <a href="https://blog.naver.com/parksoungpark">
-    <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF" alt="Naver Blog">
-  </a>
-  </a>
-  <a href="https://www.linkedin.com/in/soungmin-park-081580203/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" href="mailto:tjdals4047@gmail.com">
+  <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF" alt="Naver Blog" href="https://blog.naver.com/parksoungpark">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" href="https://www.linkedin.com/in/soungmin-park-081580203/">
 </div>
 
 ---
@@ -26,11 +20,12 @@
 <div align="left">
   <img src="https://img.shields.io/badge/mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS">
   <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white" alt="WezTerm">
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Tmux">
-  <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" alt="Starship">
   <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white" alt="Zsh">
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Tmux">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">
+  <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" alt="Starship">
+  <img src="https://img.shields.io/badge/Yazi-FFEB3B?style=for-the-badge&logo=yazi&logoColor=white" alt="yazi">
 
 </div>
 
