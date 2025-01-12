@@ -9,9 +9,15 @@
 
 ### 📫 Contact
 <div align="left">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" href="mailto:tjdals4047@gmail.com">
-  <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF" alt="Naver Blog" href="https://blog.naver.com/parksoungpark">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" href="https://www.linkedin.com/in/soungmin-park-081580203/">
+  <a href="mailto:tjdals4047@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://blog.naver.com/parksoungpark" target="_blank">
+    <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF" alt="Naver Blog">
+  </a>
+  <a href="https://www.linkedin.com/in/soungmin-park-081580203/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 ---
