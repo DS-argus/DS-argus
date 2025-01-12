@@ -1,9 +1,9 @@
 ### 👋 About Me
 - 🎓 I pursued graduate studies in Causal Inference, focusing on its applications in AI, data science, and decision-making.
-  - My expertise includes **causal effect identification and estimation** as well as **(Deep) Reinforcement Learning**.
+  - My expertise includes **causal effect identification and estimation** as well as **Reinforcement Learning**.
 - 🌱 I’m currently learning **Rust**, **Docker**, and **Backend Development**.
 - 💼 Previously, I managed derivative-based funds in the asset management industry.
-- 💻 Hobby: Exploring **terminal-based development environments** (finding ways to avoid using the mouse 😂)
+- 💻 Hobby: Exploring **terminal-based development environments** (finding ways to work without a mouse 😂)
 
 ---
 
