@@ -1,7 +1,7 @@
 ### 👋 About Me
 - 🎓 I pursued graduate studies in Causal Inference, focusing on its applications in AI, data science, and decision-making.
   - My expertise includes **causal effect identification and estimation** as well as **Reinforcement Learning**.
-- 🌱 I’m currently learning **Rust**, **Docker**, and **Backend Development**.
+- 🌱 I’m currently exploring data engineering tools, including AWS, Airflow, Spark, Docker, Kubernetes, and more.
 - 💼 Previously, I managed derivative-based funds in the asset management industry.
 - 💻 Hobby: Exploring **terminal-based development environments** (finding ways to work without a mouse 😂)
 
@@ -16,13 +16,16 @@
   <a href="https://blog.naver.com/parksoungpark">
     <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF" alt="Naver Blog">
   </a>
+  <a href="https://study-addiction.pages.dev">
+    <img src="https://img.shields.io/badge/QUARTZ-7C3AED?style=for-the-badge&logo=obsidian" alt="Quartz">
+  </a>
   <a href="https://www.linkedin.com/in/soungmin-park-081580203/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
 ---
-
+<!--
 ### ⚙️ Dev Settings
 <div align="left">
   <img src="https://img.shields.io/badge/mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS">
@@ -35,8 +38,8 @@
   <img src="https://img.shields.io/badge/Yazi-FFEB3B?style=for-the-badge&logo=yazi&logoColor=white" alt="yazi">
 
 </div>
-
 ---
+-->
 
 
 ### 🛠️ Skills
