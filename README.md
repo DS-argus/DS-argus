@@ -1,9 +1,11 @@
 ### 👋 About Me
-- 🌱 I’m currently exploring data engineering tools, including AWS, Airflow, Spark, Docker, Kubernetes, and more.
-- 🎓 I pursued graduate studies in Causal Inference, focusing on its applications in AI, data science, and decision-making.
-  - My expertise includes **causal effect identification and estimation** as well as **Reinforcement Learning**.
-- 💻 Hobby: Exploring **terminal-based development environments** (finding ways to work without a mouse 😂)
-
+- Interests
+  - Data Engineering
+  - Infra
+  - Python
+- Hobby
+  - 🏃‍➡️ Running  
+  - 💻 Exploring **terminal-based development environments** (finding ways to work without a mouse 😂)
 ---
 
 ### 📫 Contact
